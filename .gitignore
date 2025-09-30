@@ -2,3 +2,5 @@ README.md
 databricks.yml  
 venv_312
 .databricks
+.vscode
+.gitignore
