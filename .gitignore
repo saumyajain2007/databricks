@@ -4,3 +4,4 @@ venv_312
 .databricks
 .vscode
 .gitignore
+test
